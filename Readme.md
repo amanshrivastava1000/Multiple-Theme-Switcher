@@ -44,7 +44,6 @@ A modern React application demonstrating advanced theme switching capabilities w
 - **Fonts**: Google Fonts (Inter, Playfair Display, Pacifico)
 
 ## 📁 Project Structure
-
 ```
 src/
 ├── components/          # Reusable UI components
@@ -155,8 +154,7 @@ The application is fully responsive with:
 
 ## 🚀 Deployment Link
 ```bash
-[https://multi-themes-switcher-app.netlify.app](https://multi-themes-switcher-app.netlify.app)
-
+https://multi-themes-switcher-app.netlify.app
 ```
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
